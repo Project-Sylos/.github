@@ -1,3 +1,7 @@
+# !! NOTICE !!
+## This project has been MOVED to Codeberg instead. Please visit: https://www.codeberg.org/sylos to download this application or contribute. THANK YOU. 
+
+
 # Sylos - Self-Hosted File Migration for Everyone
 
 Sylos is a fast, private, fully self-hosted data migration ecosystem.
