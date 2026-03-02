@@ -1,5 +1,6 @@
 # !! NOTICE !!
 ## This project has been MOVED to Codeberg instead. Please visit: https://www.codeberg.org/sylos to download this application or contribute. THANK YOU. 
+### Secondary Notice - The [website](https://www.sylos.io/) is still hosted via github pages so if you wish to contribute there you must do so with [this repo](https://github.com/Project-Sylos/project-sylos.github.io)
 
 
 # Sylos - Self-Hosted File Migration for Everyone
